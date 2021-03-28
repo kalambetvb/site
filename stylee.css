@@ -1,0 +1,14 @@
+.text1 {
+	color: red;
+	font-size: 40px;
+	background: blue;
+}
+.btn {
+	background: green;
+	color: white;
+	font-size: 25px;
+	height: 100px;
+	width: 220px;
+	border-radius: 25px;
+	border: none;
+}

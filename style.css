@@ -1,0 +1,12 @@
+.h1gr { 
+/* Этот стиль для тега H1. 
+	Зеленые буквы, фиолетовы фон */
+	color: green; /*зеленый цвет букв*/
+	text-align: center; /*По центру*/
+	font-size: 100pt; /*Размер шрифта*/
+	background-color: purple; /*Цвет фона*/
+}
+.h1r {
+	color: red;
+	text-align: center;
+}

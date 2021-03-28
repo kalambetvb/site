@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+/*body {
+	padding: 10px;
+	background: url(kale-salad.jpg);
+}
+li {
+	display: inline;
+	margin-right: 35px;
+	border-bottom: 7px solid grey;
+}*/
+
+.header {
+	background: brown;
+	/*padding: 100px;*/
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.column1 {
+	/*background: cyan;*/
+	float: left;
+	width: 21%;
+	background: url("kale-salad.jpg");
+	height: 250px;
+	font-size: 20px;
+	border-radius: 25px;
+	/*	font-family: 'Hachi Maru Pop', cursive;*/
+}
+
+.column2 {
+	/*background: yellow;*/
+	float: left;
+	width: 21%;
+	height: 250px;
+	font-size: 20px;
+	background: url("2.png");
+	border-radius: 25px;
+/*	font-family: 'Hachi Maru Pop', cursive;*/
+}
+
+.column3 {
+	/*background: purple;*/
+	float: left;
+	width: 21%;
+	height: 250px;
+	font-size: 20px;
+	background: url("3.jpg");
+	border-radius: 25px;
+/*	font-family: 'Hachi Maru Pop', cursive;*/
+}
+
+.column4 {
+	/*background: red;*/
+	float: left;
+	width: 21%;
+	height: 250px;
+	font-size: 20px;
+	background: url("4.png");
+	border-radius: 25px;
+/*	font-family: 'Hachi Maru Pop', cursive;*/
+}
+
+.footer {
+	background: green;
+	clear:both;
+	/*padding: 30px;*/
+}
+
+.all {
+	padding: 1%;
+	margin: 1%;
+	text-align: center;
+	text-shadow: 1px 1px 20px black, 0 0 1em black; /* Параметры тени */
+    color: white;
+
+}
+.btn2 {
+    margin-top: 30px;
+    width: 80pt;
+    height: 30pt;
+    background: rgb(54, 75, 150);
+    color: white;
+    font-size: 15px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0px 7px 40px 5px rgb(0, 0, 0);
+}
+
+.rescale {
+	float: right;
+}
+
+.standsize {
+	height: 25px;
+	width: 25px;
+}
+
+
+#mainb{
+height: 200px;
+background: linear-gradient(45deg, #F6EFD2, #C5DDE8);
+}
+
+.letter {
+	color: blue;
+	font-size: 200%;
+	font-family: serif;
+}

@@ -1,0 +1,27 @@
+body {
+	/*background-image: url(img/kale-salad.jpg);*/
+}
+h1 {
+	text-align: center;
+	font-size: 60pt;
+}
+.h1bigcolor {
+	color: red;
+	text-align:right;
+	background-image: url(img/kale-salad.jpg);
+}
+
+#h1bigcolorid {
+	color: yellow;
+	text-align:left;
+	background: rgb(190, 230, 46);
+}
+
+.btn1 {
+	width: 150pt;
+	height: 150pt;
+	background: rgb(54, 75, 150);
+	color: red;
+	font-size:20pt;
+	box-shadow: -20px -40px 30px 5px rgb(0, 0, 0);
+}

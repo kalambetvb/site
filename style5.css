@@ -1,0 +1,32 @@
+.block1 {
+	background: red;
+	float: left;
+	width: 30%;
+
+}
+.block2 {
+	background: green;
+	float: left;
+	width: 30%;
+}
+.block3 {
+	background: blue;
+	float: left;
+	width: 30%;
+}
+
+.for3 {
+	height: 100px;
+	border: 10px solid gray;
+	margin: 10px;
+}
+
+.button1 {
+	height: 50px;
+	width:	150px;
+	color: red;
+	background: yellow;
+	box-shadow: 10px 10px 10px 0px #333;
+	margin-top: 100px;
+	margin-left: 100px;
+}
